@@ -20,3 +20,5 @@ This comprehensive project demonstrates the entire data engineering process, fro
   **5. Storage on Amazon S3:**
   * Store the processed data securely and efficiently on Amazon S3, facilitating easy access and scalability.
 
+References: https://www.youtube.com/watch?v=q8q3OFFfY6c&t=743s
+
